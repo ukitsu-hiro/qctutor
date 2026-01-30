@@ -23,4 +23,4 @@
 ・Windows 版は python3.13 が必要です。do_main.bat を実行してください。
 
 ・Mac 版は python3.13 が必要です。do.command を実行してください。
-
+  セキュリティチェック確認が何度も出るので、Windowsで展開してからMacへコピーするのがおすすめです。
